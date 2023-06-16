@@ -18,7 +18,7 @@ The program expects the following input format:
 
 Below is an example DFA diagram illustrating the transitions:
 
-![DFA Example](DFA.png)
+![DFA Example](images/DFA.png)
 
 #### Input
 
